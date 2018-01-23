@@ -1,0 +1,38 @@
+body{
+	background-color: #A9D0F5;
+	position: fixed;
+	top: 25px;
+	left: 140px;
+}
+#red{
+	background-color: red;
+	width: 200px;
+    height: 150px;
+}
+#white {
+  background-color:  white;
+  position: relative;
+  left: 80px;
+  bottom: 40px;
+  width: 240px;
+  height: 150px;
+  
+}
+#yellow {
+  background-color:  yellow;
+  position: relative;
+  left: 270px;
+  bottom: 260px;
+  width: 320px;
+  height: 180px;
+  
+}
+#blue {
+  background-color: blue;
+  position: relative;
+  left: 140px;
+  bottom: 410px;
+  width: 200px;
+  height: 110px;
+  
+}
